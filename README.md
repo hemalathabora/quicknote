@@ -86,6 +86,7 @@ All dependencies are listed in `requirements.txt`. To generate it:
 pip freeze > requirements.txt
 ```
 
+**Live Project** 👉 [Click to Open quicknote](https://quicknote-1goa.onrender.com)
 Example dependencies:
 
 ```text
